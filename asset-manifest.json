@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-video-player/static/css/main.de4db88c.chunk.css",
-    "main.js": "/react-video-player/static/js/main.ce7c8a51.chunk.js",
-    "main.js.map": "/react-video-player/static/js/main.ce7c8a51.chunk.js.map",
+    "main.css": "/react-video-player/static/css/main.64798fc4.chunk.css",
+    "main.js": "/react-video-player/static/js/main.239a7517.chunk.js",
+    "main.js.map": "/react-video-player/static/js/main.239a7517.chunk.js.map",
     "runtime-main.js": "/react-video-player/static/js/runtime-main.d19bb231.js",
     "runtime-main.js.map": "/react-video-player/static/js/runtime-main.d19bb231.js.map",
     "static/js/2.888d38f2.chunk.js": "/react-video-player/static/js/2.888d38f2.chunk.js",
     "static/js/2.888d38f2.chunk.js.map": "/react-video-player/static/js/2.888d38f2.chunk.js.map",
     "index.html": "/react-video-player/index.html",
-    "precache-manifest.160b965eb61534a566b6a97a52f7a00c.js": "/react-video-player/precache-manifest.160b965eb61534a566b6a97a52f7a00c.js",
+    "precache-manifest.45fbb5038c6266cb1bda4130b93d40f3.js": "/react-video-player/precache-manifest.45fbb5038c6266cb1bda4130b93d40f3.js",
     "service-worker.js": "/react-video-player/service-worker.js",
-    "static/css/main.de4db88c.chunk.css.map": "/react-video-player/static/css/main.de4db88c.chunk.css.map"
+    "static/css/main.64798fc4.chunk.css.map": "/react-video-player/static/css/main.64798fc4.chunk.css.map"
   }
 }
