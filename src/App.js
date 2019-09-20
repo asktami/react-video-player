@@ -22,7 +22,7 @@ class App extends React.Component {
 	}
 
 	chooseVideo = newVideo => {
-		console.log('chooseVideo = ', newVideo);
+		// 	console.log('chooseVideo = ', newVideo);
 		this.setState({
 			src: VIDEOS[newVideo]
 		});
